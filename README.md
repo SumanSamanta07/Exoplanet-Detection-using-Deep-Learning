@@ -20,7 +20,7 @@ Resampling:
 
 To address class imbalance, the following resampling techniques are applied:
 
-SMOTE + OSS
+SMOTE + OSS,
 ADASYN + OSS
 Resampling helps in creating a more balanced dataset, which is crucial for training accurate models.
 
