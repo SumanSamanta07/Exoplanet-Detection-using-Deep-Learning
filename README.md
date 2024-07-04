@@ -32,4 +32,3 @@ The repository includes the following neural network models:
 Convolutional Neural Network (CNN): A simple CNN with two convolutional layers followed by max pooling, dropout, and dense layers.
 Fully Convolutional Network (FCN): A network with three convolutional layers, batch normalization, and global average pooling.
 Time-based CNN (Time-CNN): A CNN with three convolutional layers, batch normalization, max pooling, and dropout.
-Residual Network (ResNet): A ResNet with residual blocks and global average pooling.
