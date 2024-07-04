@@ -3,6 +3,7 @@
 This is a project on detecting exoplanets using various neural network models. The dataset used in this project is the Exoplanet Hunting Dataset, which includes data from the Kepler space telescope. The code demonstrates data preprocessing, resampling, model building, training, and evaluation.
 
 Overview:
+
 The goal of this project is to build and evaluate several neural network models for exoplanet classification. The models used include Convolutional Neural Networks (CNN), Fully Convolutional Networks (FCN), Time-based CNN. The project also explores different resampling techniques such as SMOTE (Synthetic Minority Over-sampling Technique) and ADASYN (Adaptive Synthetic) combined with One-Sided Selection (OSS) to handle class imbalance.
 
 Libraries Used:
@@ -21,7 +22,7 @@ Resampling:
 To address class imbalance, the following resampling techniques are applied:
 
 SMOTE + OSS,
-ADASYN + OSS
+ADASYN + OSS.
 Resampling helps in creating a more balanced dataset, which is crucial for training accurate models.
 
 Model Architecture:
